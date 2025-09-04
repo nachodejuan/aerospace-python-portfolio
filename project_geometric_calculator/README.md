@@ -4,16 +4,19 @@
 A Python project exploring geometric calculations, design patterns, and performance optimization.
 
 ## 🗂️ Project Structure
-
+```
 project_geometric_calculator/
+│
 ├── src/
-│ └── geometric_calculator/
-│ ├── init.py
-│ ├── geometric_calculator.py
-│ └── decorators.py
+│   └── geometric_calculator/
+│       ├── __init__.py
+│       ├── geometric_calculator.py
+│       └── decorators.py
+│
 └── tests/
-└── geometric_calculator/
-└── tests.ipynb
+    └── geometric_calculator/
+        └── tests.ipynb
+```
 ## 🎯 Current Features
 - Circle shape calculations
 - Performance tracking decorator
